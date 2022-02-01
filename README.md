@@ -7,6 +7,8 @@ If you like it, please consider leaving a github star.  I think that it would be
 
 ## the autoresponse
 
+### EN
+
 ```
 Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
 
@@ -23,5 +25,26 @@ Thanks again for reaching out!
  
 I look forward to hearing from you.
 
-Alex
+Alessandro
+```
+
+### IT
+
+```
+Grazie mille per avermi contattato. Sono sempre interessato a sapere quali nuove ed entusiasmanti opportunità ci sono là fuori. Come ingegnere del software sono sicuro che può immaginare che ho un volume molto elevato di recruiter che mi contattano su LinkedIn. Mi trovo in una meravigliosa posizione di privilegio e sono grato per questo.
+
+Significa tuttavia che non ho il tempo di parlare al telefono con tutti quelli che mi contattano. Il più delle volte, le offerte che arrivano sono per me veramente di scarso interesse.
+
+Mi piacerebbe continuare la conversazione, ma prima di farlo, vorrei sapere quale livello di seniority sta cercando.
+
+Può inviare il nome dell'azienda, una descrizione del lavoro e i dettagli della retribuzione totale per il ruolo di riferimento di questa opportunità?
+
+Anche se apprezzo molto il fatto che recruiter eccezionalmente talentuosi e coinvolti mi contattino, smistare opportunità serie e di alta qualità da quelle invece per me di scarso interesse sarebbe un lavoro a tempo pieno se dovessi parlare al telefono con tutti quelli che me lo chiedono.
+
+In assenza di informazioni dettagliate sulla natura dell'opportunità in questione, non sarò disponibile per ulteriori discussioni.
+Grazie ancora per avermi contattato!
+ 
+Aspetto sue notizie.
+
+Alessandro
 ```
